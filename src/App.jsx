@@ -11,7 +11,6 @@ function App() {
       <div className="card">
         <p>Sample text</p>
       </div>
-      K
     </>
   );
 }
