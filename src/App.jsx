@@ -9,9 +9,9 @@ function App() {
     <>
       <h1>Git rebase practice</h1>
       <div className="card">
-        <p>Sample text</p>
+        <p>Adds new button</p>
+        <button>New Button</button>
       </div>
-      K
     </>
   );
 }
