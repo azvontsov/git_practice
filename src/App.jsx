@@ -9,6 +9,8 @@ function App() {
       <div className="card">
         <p>Adds new button</p>
         <button style={{ backgroundColor: 'gold' }}>New Button</button>
+        <button style={{ backgroundColor: 'red' }}>Adds Button in GitHub</button>
+        
       </div>
     </>
   );
